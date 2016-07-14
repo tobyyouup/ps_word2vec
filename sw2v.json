@@ -1,0 +1,13 @@
+{
+    "id": "sw2v-scheduler",
+    "container": {
+    "type": "DOCKER",
+    "docker": {
+          "image": "registry.aliyuncs.com/xlvector/sw2v",
+          "network": "BRIDGE"
+        }
+    },
+    "instances": 1,
+    "cpus": 1,
+    "mem": 64
+}
