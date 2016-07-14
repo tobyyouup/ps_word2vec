@@ -1,3 +1,5 @@
+This repo is derived from xiangliang's sw2v repo with some changes.
+
 # Word2Vec with ps-lite
 
 Implement CBOW with negative sampling by:
